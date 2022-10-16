@@ -6,10 +6,10 @@ Estimate the Crop Yield using Data Analytics
 
 Team mates
 
-Lead - LOGACHANDER B
-Member 1 - HEMANTH PRABHU S
-Member 2 - BALAMURUGAN T
-Member 3 - ARWIN PONSEL R
+- Team Lead - George Washington
+- Member 1 - John Adams
+- Member 2 - Thomas Jefferson
+- Member 3 - Arwin Ponsel R
 
 # College Name : St. Joseph's Institute of Technology
 
